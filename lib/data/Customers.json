@@ -1,0 +1,1003 @@
+{
+  "Akari": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Allan": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Amiria": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Amy": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Austin": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Bertha": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Big Pauly": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Boomer": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Boopsy & Bill": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Brody": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Bruna Romano": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Budwin": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "C.J. Friskins": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Cameo": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Captain Cory": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Carlo Romano": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Cecilia": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Chase": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Cherissa": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Chester": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Chuck": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Clair": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Cletus": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Clover": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Connor": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Cooper": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Crystal": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Daniela": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Deano": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Didar": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Doan": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Drakson": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Duke Gotcha": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Edna": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Elle": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Ember": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Emmlette": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Evelyn": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Fernanda": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Foodini": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Franco": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Georgito": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Gino Romano": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Greg": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Gremmie": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Hacky Zak": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Hank": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Hope": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Hugo": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Iggy": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Indigo": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Isadora": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Ivy": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "James": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Janana": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Johnny": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Jojo": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Julep": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Kahuna": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Kaleb": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Kasey O": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Kayla": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Kenji": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Kenton": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Kingsley": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Koilee": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "LePete": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Liezel": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Lisa": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Little Edoardo": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Lloyd": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Maggie": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Makaila": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Mandi": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Marty": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Mary": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Matt": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Mayor Mallow": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Mesa": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Mindy": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Mitch": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Moe": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Mousse": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Mr. Bombolony": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Nevada": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Nick": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Ninjoy": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Nye": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Okalani": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Olga": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Olivia": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Pally": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Papa Louie": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Peggy": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Perri": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Petrona": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Pinch Hitwell": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Professor Fitz": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Prudence": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Quinn": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Radlynn": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Rhonda": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Rico": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Ripley": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Rita": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Robby": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Rollie": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Roy": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Rudy": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Santa": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Sarge Fan": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Sasha": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Scarlett": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Scooter": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Shannon": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Sienna": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Simone": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Skip": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Skyler": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Sprinks the Clown": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Steven": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Sue": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Taylor": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Timm": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Tohru": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Tony": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Treble": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Trishna": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Utah": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Vicky": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Vincent": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": true
+  },
+  "Wally": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Wendy": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "dark",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Whiff": {
+    "gender": "male",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": true
+  },
+  "Whippa": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": true,
+    "facial_hair": false
+  },
+  "Willow": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Wylan B": {
+    "gender": "male",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Xandra": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Xolo": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Yippy": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Yui": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Yuko": {
+    "gender": "female",
+    "headwear": false,
+    "skin_colour": "light",
+    "glasses": false,
+    "facial_hair": false
+  },
+  "Zoe": {
+    "gender": "female",
+    "headwear": true,
+    "skin_colour": "dark",
+    "glasses": false,
+    "facial_hair": false
+  }
+}
