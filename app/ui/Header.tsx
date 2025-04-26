@@ -7,7 +7,7 @@ const title = "Papa's Freezeria: All Customer Orders";
 
 function Header() {
   return (
-    <div className="flex flex-col items-center justify-center pt-5">
+    <div className="flex flex-col items-center justify-center pt-5 text-center">
       <Image
         src={CustomerCravingLogo}
         alt="Customer Cravings Logo"
